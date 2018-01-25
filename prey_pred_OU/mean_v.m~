@@ -1,0 +1,5 @@
+
+function meanv = mean_v(u,v)
+A = [u v];
+m = mean(A);
+meanv = m;
